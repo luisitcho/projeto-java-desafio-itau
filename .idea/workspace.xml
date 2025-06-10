@@ -1587,6 +1587,8 @@
       <change beforePath="$PROJECT_DIR$/../../PostgresData/postgresonly/blog_strap_api/postgresql.conf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PostgresData/postgresonly/blog_strap_api/postmaster.opts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../PostgresData/postgresonly/blog_strap_api/postmaster.pid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../blog-next/.editorconfig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../blog-next/.gitignore" beforeDir="false" />
@@ -1804,7 +1806,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
@@ -1822,6 +1824,11 @@
     "last_opened_file_path": "//wsl.localhost/Ubuntu-22.04/home/luisitcho/Treino/Projetos/desafio-springboot-itau"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-22.04\home\luisitcho\Treino\Projetos\desafio-springboot-itau\.idea" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="56dd3124-dc70-4e5f-bc5d-c13e910f3426" name="Changes" comment="" />
