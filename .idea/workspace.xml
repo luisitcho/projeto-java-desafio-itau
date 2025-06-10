@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="56dd3124-dc70-4e5f-bc5d-c13e910f3426" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../.env.example" beforeDir="false" />
